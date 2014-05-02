@@ -50,7 +50,14 @@
      <Compile Include="Assets\Scripts\MoveScript.cs" />
      <Compile Include="Assets\Scripts\ObjAnimation.cs" />
      <Compile Include="Assets\Scripts\RobotScript.cs" />
+     <Compile Include="Assets\Scripts\SpecialEffectsHelper.cs" />
+     <Compile Include="Assets\Scripts\StartPosition.cs" />
+     <Compile Include="Assets\Scripts\buildingScript.cs" />
      <Compile Include="Assets\Scripts\clickDrop.cs" />
+     <Compile Include="Assets\Scripts\dragDrop.cs" />
+     <Compile Include="Assets\Scripts\mineralHolder.cs" />
+     <Compile Include="Assets\Scripts\mineralScript.cs" />
+     <Compile Include="Assets\Scripts\stoneScript.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
